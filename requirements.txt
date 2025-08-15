@@ -1,0 +1,6 @@
+opencv-python
+requests
+google
+protobuf
+pandas
+streamlit
